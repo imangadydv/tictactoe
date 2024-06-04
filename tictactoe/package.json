@@ -1,0 +1,16 @@
+{
+    "name": "tic-tac-toe",
+    "version": "1.0.0",
+    "description": "A Tic Tac Toe game",
+    "scripts": {
+      "start": "parcel src/index.html",
+      "build": "parcel build src/index.html",
+       "dev": "parcel src/index.html --no-cache"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "parcel": "^2.0.0"
+    }
+  }
